@@ -9,6 +9,7 @@
 #import "GGGViewController.h"
 #import "TinyView.h"
 #import "Request.h"
+#import "GGG.h"
 
 @interface GGGViewController ()
 
@@ -18,7 +19,7 @@
 
 - (void)viewDidLoad
 {
-   
+    GGG *gg = [[GGG alloc] init];
     
     TinyView *tinyView = [[TinyView alloc] init];
     [self.view addSubview:tinyView];

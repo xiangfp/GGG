@@ -1,0 +1,6 @@
+framework module GGG {
+  umbrella header "GGG-umbrella.h"
+
+  export *
+  module * { export * }
+}

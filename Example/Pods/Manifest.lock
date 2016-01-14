@@ -1,0 +1,14 @@
+PODS:
+  - GGG (0.1.0)
+
+DEPENDENCIES:
+  - GGG (from `../`)
+
+EXTERNAL SOURCES:
+  GGG:
+    :path: ../
+
+SPEC CHECKSUMS:
+  GGG: 8beb12310abed02a4011f772bab208bb7470ecfe
+
+COCOAPODS: 0.39.0

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key> Embed</key>
+	<dict>
+		<key>GroupEnabled</key>
+		<true/>
+		<key>embed</key>
+		<dict>
+			<key>GGG</key>
+			<string>GGG</string>
+			<key>GestureLock</key>
+			<string>GestureLock</string>
+			<key>QRCode</key>
+			<string>QRCode</string>
+		</dict>
+		<key>third-app</key>
+		<array>
+			<string>DZH</string>
+			<string>FILM</string>
+			<string>THS</string>
+		</array>
+	</dict>
+</dict>
+</plist>
