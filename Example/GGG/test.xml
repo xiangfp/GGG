@@ -1,0 +1,13 @@
+
+<tml>
+    <head>
+        <style href="file:///style.css"/>
+    </head>
+    <body style="height:100%;width:100%;background-color:#888888">
+        <label value="label" style="width:100;height:100;background-color:#ff0000"/>
+        <embed classid="HelloTinyEmbed">
+        </embed>
+    </body>
+</tml>
+
+
